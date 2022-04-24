@@ -1,0 +1,338 @@
+[
+{
+    "fields": {
+        "time_lapse": "00:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 1
+},
+{
+    "fields": {
+        "time_lapse": "00:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 2
+},
+{
+    "fields": {
+        "time_lapse": "01:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 3
+},
+{
+    "fields": {
+        "time_lapse": "01:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 4
+},
+{
+    "fields": {
+        "time_lapse": "02:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 5
+},
+{
+    "fields": {
+        "time_lapse": "02:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 6
+},
+{
+    "fields": {
+        "time_lapse": "03:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 7
+},
+{
+    "fields": {
+        "time_lapse": "03:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 8
+},
+{
+    "fields": {
+        "time_lapse": "04:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 9
+},
+{
+    "fields": {
+        "time_lapse": "04:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 10
+},
+{
+    "fields": {
+        "time_lapse": "05:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 11
+},
+{
+    "fields": {
+        "time_lapse": "05:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 12
+},
+{
+    "fields": {
+        "time_lapse": "06:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 13
+},
+{
+    "fields": {
+        "time_lapse": "06:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 14
+},
+{
+    "fields": {
+        "time_lapse": "07:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 15
+},
+{
+    "fields": {
+        "time_lapse": "07:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 16
+},
+{
+    "fields": {
+        "time_lapse": "08:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 17
+},
+{
+    "fields": {
+        "time_lapse": "08:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 18
+},
+{
+    "fields": {
+        "time_lapse": "09:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 19
+},
+{
+    "fields": {
+        "time_lapse": "09:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 20
+},
+{
+    "fields": {
+        "time_lapse": "10:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 21
+},
+{
+    "fields": {
+        "time_lapse": "10:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 22
+},
+{
+    "fields": {
+        "time_lapse": "11:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 23
+},
+{
+    "fields": {
+        "time_lapse": "11:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 24
+},
+{
+    "fields": {
+        "time_lapse": "12:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 25
+},
+{
+    "fields": {
+        "time_lapse": "12:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 26
+},
+{
+    "fields": {
+        "time_lapse": "13:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 27
+},
+{
+    "fields": {
+        "time_lapse": "13:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 28
+},
+{
+    "fields": {
+        "time_lapse": "14:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 29
+},
+{
+    "fields": {
+        "time_lapse": "14:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 30
+},
+{
+    "fields": {
+        "time_lapse": "15:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 31
+},
+{
+    "fields": {
+        "time_lapse": "15:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 32
+},
+{
+    "fields": {
+        "time_lapse": "16:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 33
+},
+{
+    "fields": {
+        "time_lapse": "16:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 34
+},
+{
+    "fields": {
+        "time_lapse": "17:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 35
+},
+{
+    "fields": {
+        "time_lapse": "17:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 36
+},
+{
+    "fields": {
+        "time_lapse": "18:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 37
+},
+{
+    "fields": {
+        "time_lapse": "18:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 38
+},
+{
+    "fields": {
+        "time_lapse": "19:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 39
+},
+{
+    "fields": {
+        "time_lapse": "19:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 40
+},
+{
+    "fields": {
+        "time_lapse": "20:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 41
+},
+{
+    "fields": {
+        "time_lapse": "20:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 42
+},
+{
+    "fields": {
+        "time_lapse": "21:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 43
+},
+{
+    "fields": {
+        "time_lapse": "21:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 44
+},
+{
+    "fields": {
+        "time_lapse": "22:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 45
+},
+{
+    "fields": {
+        "time_lapse": "22:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 46
+},
+{
+    "fields": {
+        "time_lapse": "23:00:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 47
+},
+{
+    "fields": {
+        "time_lapse": "23:30:00"
+    },
+    "model": "api.TimeLapse",
+    "pk": 48
+}
+]
